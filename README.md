@@ -1,2 +1,0 @@
-# LaneDetection
-Lane detection
